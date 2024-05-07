@@ -12,7 +12,7 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/MiguelFloresA/test-lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -55,4 +55,5 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- test project 
+- <a href="https://github.com/MiguelFloresA/test-lab/tree/main"> test project </a>
+
