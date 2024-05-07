@@ -11,7 +11,7 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| capturing and analyzing traffic using a sniffer| <a href="">Capturing and Analyzing Network Traffic Using a Sniffer</a>|
+| capturing and analyzing traffic using a sniffer| <a  href="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/tree/main">Capturing and Analyzing Network Traffic Using a Sniffer</a>|
 | Coming Soon                                   | Coming Soon       |
 | Coming Soon                                   | Coming Soon       |
 | Coming Soon                                   | Coming Soon       |
@@ -51,7 +51,5 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- <a href="https://github.com/MiguelFloresA/test-lab/tree/main"> test project </a>
+- <a href="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/tree/main">Capturing and Analyzing Traffic using a Sniffer </a>
 
