@@ -14,7 +14,7 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | capturing and analyzing traffic using a sniffer| <a  href="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/tree/main">Capturing and Analyzing Network Traffic Using a Sniffer</a>|
-| Coming Soon                                   | Coming Soon       |
+| Password Strength checker in python                                    |      |
 | Coming Soon                                   | Coming Soon       |
 | Coming Soon                                   | Coming Soon       |
 | Coming soon                                   | Coming Soon       |
