@@ -57,4 +57,5 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 
 ## Projects
 - <a href="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/tree/main">Capturing and Analyzing Traffic using a Sniffer </a>
+- <a href="https://github.com/MiguelFloresA/Password-Strength-Checker-in-python/blob/main/README.md">Password Strength Checker in python </a> 
 
