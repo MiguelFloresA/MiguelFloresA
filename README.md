@@ -14,7 +14,7 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | capturing and analyzing traffic using a sniffer| <a  href="https://github.com/MiguelFloresA/Capturing-and-Analyzing-Network-traffic-using-sniffer/tree/main">Capturing and Analyzing Network Traffic Using a Sniffer</a>|
-| Password Strength checker in python                                    |      |
+| Password Strength checker in python                                    |  <a href="https://github.com/MiguelFloresA/Password-Strength-Checker-in-python/blob/main/README.md">Password Strength Checker |
 | Coming Soon                                   | Coming Soon       |
 | Coming Soon                                   | Coming Soon       |
 | Coming soon                                   | Coming Soon       |
@@ -33,6 +33,8 @@ As an aviation professional transitioning into cybersecurity, I bring a unique b
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 ### SIEM
